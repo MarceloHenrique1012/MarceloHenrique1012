@@ -3,9 +3,8 @@
 ###social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F4E7B?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/marcelo-henrique-560a5a197//)
-
-
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5562984200089)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@barbaro01/)
 
 
 <!--
